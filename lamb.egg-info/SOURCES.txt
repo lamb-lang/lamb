@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+lamb.egg-info/PKG-INFO
+lamb.egg-info/SOURCES.txt
+lamb.egg-info/dependency_links.txt
+lamb.egg-info/entry_points.txt
+lamb.egg-info/top_level.txt
