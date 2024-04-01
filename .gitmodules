@@ -1,6 +1,0 @@
-[submodule "langchain"]
-	path = langchain
-	url = https://github.com/langchain-ai/langchain.git
-[submodule "ollama"]
-	path = ollama
-	url = https://github.com/ollama/ollama.git
